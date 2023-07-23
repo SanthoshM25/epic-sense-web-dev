@@ -38,9 +38,10 @@
 
 // textInput.addEventListener("change", (e) => handleTextInput(e));
 
-
 //create a counter - should increase, decrease and reset values
 //create a todo - should add tasks to the list - https://todoista.netlify.app/
 //create a random name picker - should pick a random from a list of names - https://randomwordgenerator.com/name.php
 //create a color picker - should list a set of colors, when selected the background should change to that color
 //create a movie reviewer - list a set of movies, once clicked should display the review for it
+
+//this change is to show the working of git and github desktop
